@@ -15,10 +15,18 @@ The MTX format ([[2]](https://math.nist.gov/MatrixMarket/formats.html)) can be u
 If you use our resources for your research, we will be thankful for an according citation: 
 
 ```bibtex
-@article{strikis2022quantum,
-  title={Quantum LDPC Codes for Modular Architectures},
-  author={Strikis, Armands and Berent, Lucas},
-  journal={arXiv preprint arXiv:2209.14329},
-  year={2022}
+@article{PRXQuantum.4.020321,
+  title = {Quantum Low-Density Parity-Check Codes for Modular Architectures},
+  author = {Strikis, Armands and Berent, Lucas},
+  journal = {PRX Quantum},
+  volume = {4},
+  issue = {2},
+  pages = {020321},
+  numpages = {14},
+  year = {2023},
+  month = {May},
+  publisher = {American Physical Society},
+  doi = {10.1103/PRXQuantum.4.020321},
+  url = {https://link.aps.org/doi/10.1103/PRXQuantum.4.020321}
 }
 ```
