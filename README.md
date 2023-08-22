@@ -15,7 +15,7 @@ The MTX format ([[2]](https://math.nist.gov/MatrixMarket/formats.html)) can be u
 If you use our resources for your research, we will be thankful for an according citation: 
 
 ```bibtex
-@article{PRXQuantum.4.020321,
+@article{Strikis2023quantum,
   title = {Quantum Low-Density Parity-Check Codes for Modular Architectures},
   author = {Strikis, Armands and Berent, Lucas},
   journal = {PRX Quantum},
